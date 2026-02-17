@@ -10,8 +10,8 @@ Esta carpeta centraliza la documentación transversal del ecosistema.
 
 1. [Onboarding](./Onboarding/README.md)
 2. [Git y Versionamiento](./Git/README.md)
-3. [Ambientes y Servidores](./Ambiente - Servidores/README.md)
-4. [Bases de Datos](./Bases de datos/README.md)
+3. [Ambientes y Servidores](./Ambiente-Servidores/README.md)
+4. [Bases de Datos](./Bases-de-datos/README.md)
 5. [Forma de trabajar](./07-forma-de-trabajar/README.md)
 
 ---
