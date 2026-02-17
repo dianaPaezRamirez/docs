@@ -66,4 +66,11 @@ Este ecosistema está compuesto por:
 ## 📍 Nota
 
 Este repositorio es documentación técnica.  
-Documentación administrativa o de negocio (presentaciones, actas, etc.) puede mantenerse en Drive.
+Cada Proyecto interno dentro del repositorio debera tener README con:
+
+- Onboarding - Explicacion del proyceto para que es
+- Instalacion
+- Variables de entorno
+- Build
+- Sistemas con los que tiene contacto
+- Bases de datos con que tiene contacto
